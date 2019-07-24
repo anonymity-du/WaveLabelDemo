@@ -3,4 +3,4 @@
 
 示例
 
-![image](https://github.com/anonymity-du/WaveLabelDemo-swift/blob/master/imageFolder/WaveLabel.gif)
+![image](https://github.com/anonymity-du/WaveLabelDemo-swift/tree/master/imageFolder/WaveLabel.gif)
